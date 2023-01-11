@@ -1076,3 +1076,59 @@
 2022-12-27 22:32:12,385 - logger_file -INFO - user clicked on login button
 2022-12-27 22:32:12,638 - logger_file -INFO - user logged in into account
 2022-12-27 22:32:17,868 - logger_file -INFO - usesr cliked on account option
+2023-01-10 21:39:38,744 - logger_file -INFO - React App is equal to React App
+2023-01-10 21:39:38,778 - logger_file -INFO - React App is equal to React App
+2023-01-10 21:40:33,972 - logger_file -INFO - React App is equal to React App
+2023-01-10 21:40:34,018 - logger_file -INFO - React App is equal to React App
+2023-01-10 21:41:31,084 - logger_file -INFO - React App is equal to React App
+2023-01-10 21:41:31,144 - logger_file -INFO - React App is equal to React App
+2023-01-10 21:41:34,551 - logger_file -INFO - React App is equal to React App
+2023-01-10 21:41:34,914 - logger_file -INFO - user clicked on Sign In option
+2023-01-10 21:41:35,444 - logger_file -INFO - user entered email noori.test@tekschool.us and password Danish@123
+2023-01-10 21:41:35,567 - logger_file -INFO - user clicked on login button
+2023-01-10 21:41:35,804 - logger_file -INFO - user logged in into account
+2023-01-10 21:41:41,043 - logger_file -INFO - usesr cliked on account option
+2023-01-10 21:41:41,629 - logger_file -INFO - user entered password information
+2023-01-10 21:41:41,742 - logger_file -INFO - User clicked on change Passwordbutton
+2023-01-10 21:42:40,385 - logger_file -INFO - React App is equal to React App
+2023-01-10 21:42:40,500 - logger_file -INFO - React App is equal to React App
+2023-01-10 21:42:43,679 - logger_file -INFO - React App is equal to React App
+2023-01-10 21:42:44,024 - logger_file -INFO - user clicked on Sign In option
+2023-01-10 21:42:44,527 - logger_file -INFO - user entered email noori.test@tekschool.us and password Danish@123
+2023-01-10 21:42:44,653 - logger_file -INFO - user clicked on login button
+2023-01-10 21:42:44,888 - logger_file -INFO - user logged in into account
+2023-01-10 21:42:50,246 - logger_file -INFO - usesr cliked on account option
+2023-01-10 21:42:50,813 - logger_file -INFO - user updated name and phone
+2023-01-10 21:42:50,951 - logger_file -INFO - user clicked on Update button
+2023-01-10 21:43:31,325 - logger_file -INFO - React App is equal to React App
+2023-01-10 21:43:31,350 - logger_file -INFO - React App is equal to React App
+2023-01-10 21:43:34,633 - logger_file -INFO - React App is equal to React App
+2023-01-10 21:43:34,906 - logger_file -INFO - user clicked on Sign In option
+2023-01-10 21:43:35,404 - logger_file -INFO - user entered email noori.test@tekschool.us and password Danish@123
+2023-01-10 21:43:35,536 - logger_file -INFO - user clicked on login button
+2023-01-10 21:43:35,782 - logger_file -INFO - user logged in into account
+2023-01-10 21:43:41,032 - logger_file -INFO - usesr cliked on account option
+2023-01-10 21:43:41,177 - logger_file -INFO - user clicked on add a payment method link
+2023-01-10 21:45:00,485 - logger_file -INFO - React App is equal to React App
+2023-01-10 21:45:00,531 - logger_file -INFO - React App is equal to React App
+2023-01-10 21:45:03,725 - logger_file -INFO - React App is equal to React App
+2023-01-10 21:45:04,073 - logger_file -INFO - user clicked on Sign In option
+2023-01-10 21:45:04,564 - logger_file -INFO - user entered email noori.test@tekschool.us and password Danish@123
+2023-01-10 21:45:04,683 - logger_file -INFO - user clicked on login button
+2023-01-10 21:45:04,929 - logger_file -INFO - user logged in into account
+2023-01-10 21:45:10,144 - logger_file -INFO - usesr cliked on account option
+2023-01-10 21:46:21,698 - logger_file -INFO - React App is equal to React App
+2023-01-10 21:46:21,721 - logger_file -INFO - React App is equal to React App
+2023-01-10 21:46:24,866 - logger_file -INFO - React App is equal to React App
+2023-01-10 21:46:25,264 - logger_file -INFO - user clicked on Sign In option
+2023-01-10 21:46:25,739 - logger_file -INFO - user entered email noori.test@tekschool.us and password Danish@123
+2023-01-10 21:46:25,861 - logger_file -INFO - user clicked on login button
+2023-01-10 21:46:26,097 - logger_file -INFO - user logged in into account
+2023-01-10 21:46:31,313 - logger_file -INFO - usesr cliked on account option
+2023-01-10 21:48:03,761 - logger_file -INFO - React App is equal to React App
+2023-01-10 21:48:04,113 - logger_file -INFO - user clicked on All element
+2023-01-10 21:48:04,170 - logger_file -INFO - Electronics is present
+2023-01-10 21:48:04,212 - logger_file -INFO - Computers is present
+2023-01-10 21:48:04,250 - logger_file -INFO - Smart Home is present
+2023-01-10 21:48:04,285 - logger_file -INFO - Sports is present
+2023-01-10 21:48:04,324 - logger_file -INFO - Automative is present

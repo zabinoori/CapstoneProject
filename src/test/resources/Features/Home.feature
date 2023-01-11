@@ -3,22 +3,18 @@ Feature: Sign In Feature
   Background: 
     Given User is on retail website
 
-  
   Scenario: Verify Retail page logo
     Then User verify retail page logo is present
 
-  
   Scenario: Verify User can Search in Electronics Department
     When User change the category to 'Electronics'
     And User search for an item 'PlayStation'
     And User click on Search icon
     Then Item should be present
 
- 
   Scenario: Verify User can click on All section
     When User click on All section
     Then User verifies 'Shop By department' is present
-
 
   Scenario: Verify Cart icon is present
     Then User verifies cart icon is present
@@ -29,8 +25,7 @@ Feature: Sign In Feature
     And User enter email 'noori.z@tek.us' and password 'Danish@123'
     And User click on login button
     Then User should be logged in into Account
-
-  
+@Mati
   Scenario: Verify user can create an account into Retail Website
     Given User is on retail website
     When User click on Sign in option

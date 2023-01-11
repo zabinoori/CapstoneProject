@@ -1,5 +1,5 @@
 Feature: Retail Home Page
-
+@Test
   Scenario: Verify Shop by Department sidebar
     Given User is on retail website
     When User click on All section

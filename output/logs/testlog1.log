@@ -1076,3 +1076,59 @@
 2022-12-27 22:32:12,385 [main] INFO logger_file - user clicked on login button
 2022-12-27 22:32:12,638 [main] INFO logger_file - user logged in into account
 2022-12-27 22:32:17,868 [main] INFO logger_file - usesr cliked on account option
+2023-01-10 21:39:38,744 [main] INFO logger_file - React App is equal to React App
+2023-01-10 21:39:38,778 [main] INFO logger_file - React App is equal to React App
+2023-01-10 21:40:33,972 [main] INFO logger_file - React App is equal to React App
+2023-01-10 21:40:34,018 [main] INFO logger_file - React App is equal to React App
+2023-01-10 21:41:31,084 [main] INFO logger_file - React App is equal to React App
+2023-01-10 21:41:31,144 [main] INFO logger_file - React App is equal to React App
+2023-01-10 21:41:34,551 [main] INFO logger_file - React App is equal to React App
+2023-01-10 21:41:34,914 [main] INFO logger_file - user clicked on Sign In option
+2023-01-10 21:41:35,444 [main] INFO logger_file - user entered email noori.test@tekschool.us and password Danish@123
+2023-01-10 21:41:35,567 [main] INFO logger_file - user clicked on login button
+2023-01-10 21:41:35,804 [main] INFO logger_file - user logged in into account
+2023-01-10 21:41:41,043 [main] INFO logger_file - usesr cliked on account option
+2023-01-10 21:41:41,629 [main] INFO logger_file - user entered password information
+2023-01-10 21:41:41,742 [main] INFO logger_file - User clicked on change Passwordbutton
+2023-01-10 21:42:40,385 [main] INFO logger_file - React App is equal to React App
+2023-01-10 21:42:40,500 [main] INFO logger_file - React App is equal to React App
+2023-01-10 21:42:43,679 [main] INFO logger_file - React App is equal to React App
+2023-01-10 21:42:44,024 [main] INFO logger_file - user clicked on Sign In option
+2023-01-10 21:42:44,527 [main] INFO logger_file - user entered email noori.test@tekschool.us and password Danish@123
+2023-01-10 21:42:44,653 [main] INFO logger_file - user clicked on login button
+2023-01-10 21:42:44,888 [main] INFO logger_file - user logged in into account
+2023-01-10 21:42:50,246 [main] INFO logger_file - usesr cliked on account option
+2023-01-10 21:42:50,813 [main] INFO logger_file - user updated name and phone
+2023-01-10 21:42:50,951 [main] INFO logger_file - user clicked on Update button
+2023-01-10 21:43:31,325 [main] INFO logger_file - React App is equal to React App
+2023-01-10 21:43:31,350 [main] INFO logger_file - React App is equal to React App
+2023-01-10 21:43:34,633 [main] INFO logger_file - React App is equal to React App
+2023-01-10 21:43:34,906 [main] INFO logger_file - user clicked on Sign In option
+2023-01-10 21:43:35,404 [main] INFO logger_file - user entered email noori.test@tekschool.us and password Danish@123
+2023-01-10 21:43:35,536 [main] INFO logger_file - user clicked on login button
+2023-01-10 21:43:35,782 [main] INFO logger_file - user logged in into account
+2023-01-10 21:43:41,032 [main] INFO logger_file - usesr cliked on account option
+2023-01-10 21:43:41,177 [main] INFO logger_file - user clicked on add a payment method link
+2023-01-10 21:45:00,485 [main] INFO logger_file - React App is equal to React App
+2023-01-10 21:45:00,531 [main] INFO logger_file - React App is equal to React App
+2023-01-10 21:45:03,725 [main] INFO logger_file - React App is equal to React App
+2023-01-10 21:45:04,073 [main] INFO logger_file - user clicked on Sign In option
+2023-01-10 21:45:04,564 [main] INFO logger_file - user entered email noori.test@tekschool.us and password Danish@123
+2023-01-10 21:45:04,683 [main] INFO logger_file - user clicked on login button
+2023-01-10 21:45:04,929 [main] INFO logger_file - user logged in into account
+2023-01-10 21:45:10,144 [main] INFO logger_file - usesr cliked on account option
+2023-01-10 21:46:21,698 [main] INFO logger_file - React App is equal to React App
+2023-01-10 21:46:21,721 [main] INFO logger_file - React App is equal to React App
+2023-01-10 21:46:24,866 [main] INFO logger_file - React App is equal to React App
+2023-01-10 21:46:25,264 [main] INFO logger_file - user clicked on Sign In option
+2023-01-10 21:46:25,739 [main] INFO logger_file - user entered email noori.test@tekschool.us and password Danish@123
+2023-01-10 21:46:25,861 [main] INFO logger_file - user clicked on login button
+2023-01-10 21:46:26,097 [main] INFO logger_file - user logged in into account
+2023-01-10 21:46:31,313 [main] INFO logger_file - usesr cliked on account option
+2023-01-10 21:48:03,761 [main] INFO logger_file - React App is equal to React App
+2023-01-10 21:48:04,113 [main] INFO logger_file - user clicked on All element
+2023-01-10 21:48:04,170 [main] INFO logger_file - Electronics is present
+2023-01-10 21:48:04,212 [main] INFO logger_file - Computers is present
+2023-01-10 21:48:04,250 [main] INFO logger_file - Smart Home is present
+2023-01-10 21:48:04,285 [main] INFO logger_file - Sports is present
+2023-01-10 21:48:04,324 [main] INFO logger_file - Automative is present
