@@ -1,5 +1,6 @@
 Feature: Retail Home Page
-@Test
+
+  @Test
   Scenario: Verify Shop by Department sidebar
     Given User is on retail website
     When User click on All section
@@ -63,6 +64,7 @@ Feature: Retail Home Page
     And User click on Place Your Order
     Then a message should be displayed 'Order Placed, Thanks'
 
+  @Test
   Scenario: Verify User can place an order with Shipping address and payment Method on file
     Given User is on retail website
     When User click on Sign in option
